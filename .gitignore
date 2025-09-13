@@ -206,4 +206,8 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Silly macOS things
 .DS_Store
+
+# IDEA PyCharm
+.idea
